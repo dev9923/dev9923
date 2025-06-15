@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Devansh Bansal <p align="center"> <img src="[https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif]"  width="100"/>
-</p>
+                    # 👋 Hi, I'm Devansh Bansal [![Developer at work](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)](mailto:devanshbansal500@gmail.com)
+
 
 ### 💻 Full Stack Web Developer | BTech CSE Core @ SRM
 
