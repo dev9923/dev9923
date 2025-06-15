@@ -45,16 +45,15 @@ Hello! I'm a passionate Full-Stack Web Developer currently pursuing a BTech in C
 
 ---
 
+## 🤝 Connect with Me
+[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:devanshbansal500@gmail.com)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/devansh-bansal-329ab7b1/)
+
+---
+
 ## 📊 GitHub Stats
 
 ![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev9923&show_icons=true&theme=radical)
 
 
----
-
-## 🤝 Connect with Me
-
-[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:devanshbansal500@gmail.com)
-
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/devansh-bansal-329ab7b1/)
 
