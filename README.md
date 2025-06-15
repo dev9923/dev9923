@@ -1,5 +1,4 @@
-                    # 👋 Hi, I'm Devansh Bansal [![Developer at work](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)](mailto:devanshbansal500@gmail.com)
-
+ # 👋 Hi, I'm Devansh Bansal [![Developer at work](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)]
 
 ### 💻 Full Stack Web Developer | BTech CSE Core @ SRM
 
