@@ -31,17 +31,17 @@ Hello! I'm a passionate Full-Stack Web Developer currently pursuing a BTech in C
 
 ## 📌 Projects
 
-### 🍕 PizzaPioneer
-> Pizza ordering platform with full-stack tech.
+### 🎵 Premium Music Website
+> A modern and responsive design to promote a premium music subscription service.
 
 ### ⏱ Stopwatch App
 > Timer with JS logic and responsive layout.
 
-### 🎮 Tic-Tac-Toe
-> Classic game logic built using HTML/CSS/JS.
+### 📱 Mobile Number Tracker
+> A web-based mobile number tracker built with **Node.js** and **JavaScript** that allows users to trace mobile numbers using integrated APIs or databases.
 
-### 🧾 Portfolio Website
-> Personal portfolio showcasing work and contact info.
+### 🧠 Multi-Agent AI System
+> A multi-agent document router system that accepts inputs in Email, JSON, or PDF format.
 
 ---
 
