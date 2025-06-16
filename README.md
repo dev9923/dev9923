@@ -1,6 +1,6 @@
-   # 👋 Hi, I'm Devansh Bansal <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer at work" width="100"/>
+<h1 align="center"> # 👋 Hi, I'm Devansh Bansal <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer at work" width="100"/> </h1>
 
-                  💻 Full Stack Web Developer 
+<h1 align="center"> 💻 Full Stack Web Developer </h1>
 
 ---
 
