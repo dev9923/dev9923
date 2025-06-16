@@ -8,6 +8,7 @@
 
 Hello! I'm a passionate Full-Stack Web Developer currently pursuing a BTech in CSE Core at SRM University. I have a strong foundation in both frontend and backend technologies and enjoy creating responsive and dynamic web applications.
 
+
 ## Skills and Technologies
 
 - 🌱 Currently learning **EJS**
