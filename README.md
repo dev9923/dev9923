@@ -38,10 +38,11 @@ Hello! I'm a passionate Full-Stack Web Developer currently pursuing a BTech in C
 > Timer with JS logic and responsive layout.
 
 ### 📱 Mobile Number Tracker
-> A web-based mobile number tracker built with **Node.js** and **JavaScript** that allows users to trace mobile numbers using integrated APIs or databases.
+> A web-based mobile number tracker built with **Node.js** and **JavaScript** that allows users to trace mobile numbers using integrated APIs
+or databases.
 
 ### 🧠 Multi-Agent AI System
-> A multi-agent document router system that accepts inputs in Email, JSON, or PDF format.
+> A multi-agent document router system that accepts inputs in Email, JSON, or PDF format and process the functioning with through various agents.
 
 ---
 
