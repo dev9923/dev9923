@@ -47,7 +47,7 @@ or databases.
 ---
 
 ## 🤝 Connect with Me
-[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:devanshbansal500@gmail.com) [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/devansh-bansal-329ab7b1/) [![Website](https://img.icons8.com/color/48/000000/browser.png)](https://devansh-bansal.netlify.app/)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:devanshbansal500@gmail.com) [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/devansh-bansal-329ab7b1/) 💻(https://devansh-bansal.netlify.app/)
 
 ---
 
