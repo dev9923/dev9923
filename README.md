@@ -1,12 +1,12 @@
- # 👋 Hi, I'm Devansh Bansal <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer at work" width="100"/>
+   # 👋 Hi, I'm Devansh Bansal <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer at work" width="100"/>
 
-### 💻 Full Stack Web Developer | BTech CSE Core @ SRM
+                  💻 Full Stack Web Developer 
 
 ---
 
 ## 🚀 About Me
----
-Hello! I'm a passionate Full-Stack Web Developer currently pursuing a BTech in CSE Core at SRM. I have a strong foundation in both frontend and backend technologies and enjoy creating responsive and dynamic web applications.
+
+Hello! I'm a passionate Full-Stack Web Developer currently pursuing a BTech in CSE Core at SRM University. I have a strong foundation in both frontend and backend technologies and enjoy creating responsive and dynamic web applications.
 
 ## Skills and Technologies
 
