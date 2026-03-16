@@ -14,7 +14,7 @@ Hello! I'm a passionate Full-Stack Web Developer currently pursuing a BTech in C
 
 ## 🧰 Skills and Technologies
 
-- 🌱 Currently learning **EJS**
+- 🌱 Currently learning **Mavin**
 - 🛠️ Skilled in **Node.js**, **Express**, **MongoDB**, **React.js**, **Next.js**
 - 🎨 Frontend experience with **HTML**, **CSS**, **JavaScript**
 - 👨‍💼 Internship experience at **UIDAI(Ministry of IT & Electronics)**
